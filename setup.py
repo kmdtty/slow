@@ -14,5 +14,5 @@ modules = [
 
 if __name__ == '__main__':
   setup(name='slow',
-        **extra_kwargs
+        author='Tatuya Kamada',
        )
